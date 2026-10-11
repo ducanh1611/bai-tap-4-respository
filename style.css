@@ -19,7 +19,7 @@ body {
     margin: 0;
     background: var(--paper);
     color: var(--ink);
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 1.75;
 }
@@ -131,7 +131,7 @@ h1, h2, h3 {
 h1 {
     margin-bottom: 24px;
     font-size: clamp(2rem, 4vw, 3rem);
-    letter-spacing: -.035em;
+    letter-spacing: normal;
 }
 
 h2 {
